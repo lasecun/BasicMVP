@@ -43,7 +43,7 @@ public class Login extends AppCompatActivity implements LoginView {
 
     @Override
     public void setErrorUser() {
-        user.setError("Campo obligatorio");
+        user.setError("Campo Obligatorio");
     }
 
     @Override
